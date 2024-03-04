@@ -39,7 +39,7 @@ function draw() {
   // blcok 1 copy this code, edit the numbers to make other blocks
   rect(50, 50, 100, 100); //input box
   
-  if (mouseX < 150 & mouseX > 50 & mouseY < 150 & mouseY > 50 ) {
+  if (mouseX < 150 && mouseX > 50 && mouseY < 150 *& mouseY > 50 ) {
     text("input device", mouseX, mouseY) //name of the block
     text("information provided by user", descriptX, descriptY) // definition of 
   }//end if
