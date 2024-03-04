@@ -12,7 +12,7 @@ Purpose: to understand why the von Neumann Machine was created and how it was us
 
 ## Your presentation must include (10 pts)
 1. A block diagram of a stereotypical von Neumann machine
-2. A roll over label of each block
+2. A rollover label for each block
     - naming the part
     - describing what it does in your own words
     - a picture of the component
@@ -36,7 +36,7 @@ function draw() {
 
   background(255);
 
-  // blcok 1 copy this code, edit the numbers to make other blocks
+  // block 1 copy this code, edit the numbers to make other blocks
   rect(50, 50, 100, 100); //input box
   
   if (mouseX < 150 && mouseX > 50 && mouseY < 150 *& mouseY > 50 ) {
