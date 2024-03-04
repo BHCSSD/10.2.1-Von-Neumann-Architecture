@@ -57,3 +57,21 @@ function mousePressed(){
   print("y:"+ mouseY)
 }
 ```
+
+## Rubric for Von Neumann Architecture Interactive Program:
+
+1. **Accuracy of Block Diagram:**
+   - The block diagram should accurately represent the components of a typical Von Neumann machine.
+   - Components include CPU, ALU, Control Unit, Memory, Input/Output.
+
+2. **Clarity of Rollover Labels, Explanation:**
+   - Each block in the diagram should have rollover labels.
+   - Labels should name the part and describe its function in simple and understandable language.
+   - Clear demonstration of how data flows through the computer under the direction of a program.
+   - A clear and concise definition explaining what each component does needs to appear when the mouse rolls over. 
+
+3. **Inclusion of Component Pictures:**
+   - Each component described in the rollover labels should be accompanied by a picture to enhance visualization.
+   - Each block in the diagram should be associated with a typical device or hardware component found in a computer system.
+       - For example, CPU can be associated with a microprocessor, Memory with RAM, Input/Output with keyboard/mouse, etc.
+
